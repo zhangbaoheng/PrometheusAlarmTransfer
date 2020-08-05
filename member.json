@@ -1,0 +1,9 @@
+{
+    "alarm_group":{
+        "default_group":"XXXX",
+    },
+    "mail_receiver":"XXXX",
+    "sms_switch":"off",
+    "mail_switch":"off",
+    "wechat_switch":"off"
+}
